@@ -97,6 +97,9 @@ Outil construit à des fins de démonstration des compétences techniques. Usage
 et exploration uniquement. Les données traitées sont publiques et l'outil ne stocke
 aucune information.
 
+Projet personnel à but démonstratif. Outil non hébergé en ligne. Aucune donnée n'est
+stockée. Les sources utilisées sont publiques.
+
 ## Auteur
 
 Construit par Emmanuel Truffaut, Product Builder No-Code et IA.
