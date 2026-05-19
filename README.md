@@ -91,6 +91,12 @@ L'outil a besoin d'un serveur (scraping via Playwright), il ne peut donc pas tou
 sur un hébergement statique. Il s'exécute en local avec `npm run dev`. Le serveur
 écoute uniquement sur la boucle locale (127.0.0.1).
 
+## Avertissement
+
+Outil construit à des fins de démonstration des compétences techniques. Usage personnel
+et exploration uniquement. Les données traitées sont publiques et l'outil ne stocke
+aucune information.
+
 ## Auteur
 
 Construit par Emmanuel Truffaut, Product Builder No-Code et IA.
