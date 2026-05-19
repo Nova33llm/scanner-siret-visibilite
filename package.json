@@ -1,0 +1,35 @@
+{
+  "name": "scanner-siret",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Scanner de visibilite digitale a partir d'un SIRET ou d'un nom d'enseigne.",
+  "author": {
+    "name": "Emmanuel Truffaut",
+    "url": "https://www.linkedin.com/in/emmanuel-truffaut-b38b292b7"
+  },
+  "homepage": "https://portfolio.etd-projects.fr/outils/scanner-siret",
+  "scripts": {
+    "dev": "concurrently -k -n SERVER,CLIENT -c blue,green \"npm:dev:server\" \"npm:dev:client\"",
+    "dev:server": "node server/index.js",
+    "dev:client": "vite",
+    "build": "vite build",
+    "start": "node server/index.js",
+    "test": "node --test \"tests/**/*.test.js\"",
+    "postinstall": "playwright install chromium"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "playwright": "^1.49.1",
+    "playwright-extra": "^4.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.3.4",
+    "concurrently": "^9.1.2",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "vite": "^6.0.7"
+  }
+}
