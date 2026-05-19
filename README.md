@@ -106,3 +106,5 @@ Vous inspectez le code ? Une question ? Je réponds avec plaisir :
 [Emmanuel Truffaut sur LinkedIn](https://www.linkedin.com/in/emmanuel-truffaut-b38b292b7).
 
 Portfolio : https://portfolio.etd-projects.fr
+
+Licence : MIT, voir le fichier LICENSE.
