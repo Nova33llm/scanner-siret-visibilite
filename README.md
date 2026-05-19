@@ -93,18 +93,16 @@ sur un hébergement statique. Il s'exécute en local avec `npm run dev`. Le serv
 
 ## Avertissement
 
-Outil construit à des fins de démonstration des compétences techniques. Usage personnel
-et exploration uniquement. Les données traitées sont publiques et l'outil ne stocke
-aucune information.
-
-Projet personnel à but démonstratif. Outil non hébergé en ligne. Aucune donnée n'est
-stockée. Les sources utilisées sont publiques.
+Projet personnel à but démonstratif des compétences techniques. Outil non hébergé en
+ligne, exécuté localement uniquement. Les données traitées sont publiques (base SIRENE)
+et l'outil ne stocke aucune information. Résultats indicatifs, sans valeur juridique
+ni commerciale.
 
 ## Auteur
 
 Construit par Emmanuel Truffaut, Product Builder No-Code et IA.
 
 Vous inspectez le code ? Une question ? Je réponds avec plaisir :
-[Emmanuel Truffaut sur LinkedIn](https://www.linkedin.com/in/emmanuel-truffaut-b38b292b7)
+[Emmanuel Truffaut sur LinkedIn](https://www.linkedin.com/in/emmanuel-truffaut-b38b292b7).
 
 Portfolio : https://portfolio.etd-projects.fr
